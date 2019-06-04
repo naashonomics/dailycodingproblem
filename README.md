@@ -1,6 +1,6 @@
 # dailycodingproblem
 
-6/1 [medium] [Facebook]
+6/1 [medium] [Facebook] : https://github.com/naashonomics/dailycodingproblem/blob/master/6_1_2019_Facebook.ipynb
 
 Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded
 .
