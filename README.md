@@ -9,7 +9,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
 
-6/3: [hard] [Airbnb]
+6/3: [hard] [Airbnb] https://github.com/naashonomics/dailycodingproblem/blob/master/6_3_2019_Airbnb.ipynb
 
 Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
 
