@@ -1,5 +1,12 @@
 # dailycodingproblem
 
+5/27 [Hard][Uber]:
+Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
+
+For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+
+Follow-up: what if you can't use division?
+
 6/1 [medium] [Facebook] : https://github.com/naashonomics/dailycodingproblem/blob/master/6_1_2019_Facebook.ipynb
 
 Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded
@@ -16,3 +23,5 @@ Given a list of integers, write a function that returns the largest sum of non-a
 Exmaple: For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1, 1, 5] should return 10, since we pick 5 and 5.
 
 Follow-up: Can you do this in O(N) time and constant space?
+
+
