@@ -69,4 +69,13 @@ Exmaple: For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 
 
 Follow-up: Can you do this in O(N) time and constant space?
 
+6/5: [medium] [Twitter]
+
+Implement an autocomplete system. 
+
+That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
+
+For example, given the query string de and the set of strings [dog, deer, deal], return [deer, deal].
+
+Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
