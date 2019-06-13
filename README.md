@@ -79,3 +79,16 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
+6/12 [hackerrank] [VMware]
+
+Converting Decimal Number lying between 1 to 3999 to Roman Numerals
+
+https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/ 
+
+Print a given matrix in spiral form
+
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+
+Condense elemnts in a list
+
+User Company wise guide : https://www.ocf.berkeley.edu/~marsy/resources/interviews/CSInterviewQuestions.pdf
