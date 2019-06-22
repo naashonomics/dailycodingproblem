@@ -89,7 +89,7 @@ For example, given the string "([])[]({})", you should return true.
 
 Given the string "([)]" or "((()", you should return false.
 
-
+https://github.com/naashonomics/dailycodingproblem/blob/master/6_21_Facebook_Easy.ipynb 
 
 6/12 [hackerrank] [VMware]
 
