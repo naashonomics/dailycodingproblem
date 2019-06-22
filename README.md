@@ -79,6 +79,18 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
+6/21 [easy] [Facebook]
+
+This problem was asked by Facebook.
+
+Given a string of round, curly, and square open and closing brackets, return whether the brackets are balanced (well-formed).
+
+For example, given the string "([])[]({})", you should return true.
+
+Given the string "([)]" or "((()", you should return false.
+
+
+
 6/12 [hackerrank] [VMware]
 
 Converting Decimal Number lying between 1 to 3999 to Roman Numerals
